@@ -1,6 +1,5 @@
 
 
-```markdown
 # SwiftShare
 
 SwiftShare is a dynamic file-sharing application that allows users to effortlessly upload, share, and download files of any type. With a user-friendly interface, robust security features, and efficient file handling, CloudShare simplifies collaboration and enhances the sharing experience.
@@ -29,7 +28,7 @@ Follow these steps to set up and run CloudShare locally:
 3. **Start the Application:**
    ```bash
    npm start
-   ```
+
 
    The application will be accessible at [http://localhost:3000](http://localhost:3000) by default.
 
